@@ -1,0 +1,3 @@
+int32 duration # the time (in seconds)
+---
+bool success # did it achieve it?

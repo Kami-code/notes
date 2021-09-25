@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="robot_moving" type="simple_topic_publisher.py" name="ObiWan1"  output="screen">
+    </node>
+</launch>

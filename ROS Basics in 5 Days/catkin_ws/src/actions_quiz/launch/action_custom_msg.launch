@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="actions_quiz" type="my_script.py" name="ObiWan"  output="screen">
+    </node>
+</launch>
