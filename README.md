@@ -25,3 +25,15 @@
 > SE3353 - 应用体系架构
 
 * [SE3353-2021-Notes](https://github.com/Kami-code/SE3353-2021-Notes)
+
+> SE213 - 软件测试
+
+* [SE213-2022-Notes](https://github.com/Kami-code/SE213-2022-Notes)
+
+> SE3356 - 云操作系统设计与实践
+
+* [SE3356-2022-Notes](https://github.com/Kami-code/SE3356-2022-Notes)
+
+> SE3357 - 操作系统
+
+* [SE3357-2022-Notes](https://github.com/Kami-code/SE3357-2022-Notes)
